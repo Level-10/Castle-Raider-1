@@ -52,6 +52,7 @@
     {"name":"obj_trigger_door","order":12,"path":"objects/obj_trigger_door/obj_trigger_door.yy",},
     {"name":"obj_trigger_text","order":11,"path":"objects/obj_trigger_text/obj_trigger_text.yy",},
     {"name":"obj_trigger","order":10,"path":"objects/obj_trigger/obj_trigger.yy",},
+    {"name":"obj_guard","order":4,"path":"objects/obj_guard/obj_guard.yy",},
     {"name":"rm_01_2","order":6,"path":"rooms/rm_01_2/rm_01_2.yy",},
     {"name":"rm_01","order":3,"path":"rooms/rm_01/rm_01.yy",},
     {"name":"rm_02","order":4,"path":"rooms/rm_02/rm_02.yy",},
@@ -152,9 +153,9 @@
     {"name":"spr_sword_hit","order":13,"path":"sprites/spr_sword_hit/spr_sword_hit.yy",},
     {"name":"spr_sword_hit2","order":14,"path":"sprites/spr_sword_hit2/spr_sword_hit2.yy",},
     {"name":"spr_transition","order":6,"path":"sprites/spr_transition/spr_transition.yy",},
+    {"name":"spr_trigger_door","order":10,"path":"sprites/spr_trigger_door/spr_trigger_door.yy",},
     {"name":"spr_trigger_text","order":9,"path":"sprites/spr_trigger_text/spr_trigger_text.yy",},
     {"name":"spr_trigger","order":8,"path":"sprites/spr_trigger/spr_trigger.yy",},
-    {"name":"spr_trigger_door","order":10,"path":"sprites/spr_trigger_door/spr_trigger_door.yy",},
     {"name":"t_tile_castle","order":1,"path":"tilesets/t_tile_castle/t_tile_castle.yy",},
   ],
 }
