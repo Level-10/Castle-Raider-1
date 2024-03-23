@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"check_enemy_hp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_enemy_hp",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

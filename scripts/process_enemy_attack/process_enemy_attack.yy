@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"process_enemy_attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"process_enemy_attack",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
